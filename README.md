@@ -98,3 +98,9 @@ single `state` value: `color`, (which will be a 3 digit hex value i.e. '#FFF').
    alternating red-blue
 4. When you click on any given cell, that cell's color changes to dark gray
 
+
+
+
+
+
+
